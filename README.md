@@ -1,4 +1,12 @@
-# ordermgt
+# ordermgt-fe
+
+#Summary
+```
+Given that datas are loaded in server side, in Orders tab in dashboard, it will be populated by call of rest api
+from server side to client with search input and custom display size. 
+
+Mock data are added for the first few datas for display if db is not set up. This will be editted soon.
+```
 
 ## Project setup
 ```
